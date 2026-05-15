@@ -207,11 +207,6 @@ The frontend expects a REST API at `http://localhost:5000` with the following en
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of the homepage, product pages, cart, and donor panel here._
-
----
 
 ## 🤝 Contributing
 
