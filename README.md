@@ -218,9 +218,9 @@ The frontend expects a REST API at `http://localhost:5000` with the following en
 
 ---
 
-## 📄 License
+## 📄 author
+R.brindhasri
 
-This project is proprietary and owned by **Abirami Jewellers**. All rights reserved.
 
 ---
 
