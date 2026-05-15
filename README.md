@@ -220,7 +220,11 @@ The frontend expects a REST API at `http://localhost:5000` with the following en
 
 ## 📄 author
 R.brindhasri
+## 👨‍💻 Author
 
+### Brindha Sri
+
+[GitHub Profile](https://github.com/brindhasri99) 
 
 ---
 
