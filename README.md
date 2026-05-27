@@ -207,15 +207,8 @@ The frontend expects a REST API at `http://localhost:5000` with the following en
 
 ---
 
-## 📸 Screenshots
 
-![sign in page](image.png)
-![home page](image-1.png)
-![home page below](<Screenshot 2026-05-15 083114.png>)
-![home](<Screenshot 2026-05-15 083138.png>)
-![dropdown](image-2.png)
 
----
 
 ## 🤝 Contributing
 
@@ -227,9 +220,13 @@ The frontend expects a REST API at `http://localhost:5000` with the following en
 
 ---
 
-## 📄 License
+## 📄 author
+R.brindhasri
+## 👨‍💻 Author
 
-This project is proprietary and owned by **Abirami Jewellers**. All rights reserved.
+### Brindha Sri
+
+[GitHub Profile](https://github.com/brindhasri99) 
 
 ---
 
