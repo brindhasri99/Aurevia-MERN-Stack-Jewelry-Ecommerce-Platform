@@ -1,6 +1,6 @@
-# 💍 Abirami Jewellers — E-Commerce Web App
+# Aurevia – MERN Stack Jewelry Ecommerce Platform
 
-A modern, feature-rich jewellery e-commerce platform built with **React + Vite + Tailwind CSS**, offering a seamless shopping experience across Gold, Diamond, Silver, and Victorian jewellery collections.
+A modern, feature-rich jewellery e-commerce platform built with ** MongoDB + Express.js + React + Node.js+ Tailwind CSS**, offering a seamless shopping experience across Gold, Diamond, Silver, and Victorian jewellery collections.
 
 ---
 
@@ -209,7 +209,11 @@ The frontend expects a REST API at `http://localhost:5000` with the following en
 
 ## 📸 Screenshots
 
-> _Add screenshots of the homepage, product pages, cart, and donor panel here._
+![sign in page](image.png)
+![home page](image-1.png)
+![home page below](<Screenshot 2026-05-15 083114.png>)
+![home](<Screenshot 2026-05-15 083138.png>)
+![dropdown](image-2.png)
 
 ---
 

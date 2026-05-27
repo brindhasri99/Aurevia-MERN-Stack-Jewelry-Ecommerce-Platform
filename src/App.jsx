@@ -3,8 +3,8 @@ import { useContext } from "react";
 import { CartContext } from "./context/CartContext";
 import { useAuth } from "./context/AuthContext";
 
-import Navbar from './components/navbar';
-import Hero from './components/hero';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 import CategoryBar from './components/CategoryBar';
 import Showcase from './components/Showcase';
 import NewArrivals from "./components/NewArrivals";
